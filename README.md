@@ -30,8 +30,8 @@
         }
 
         #don-dosco {
-            width: 50px;
-            height: 50px;
+            width: 100px;
+            height: 60px;
             position: absolute;
             background-image: url('f/don_2-removebg.png');
             background-size: cover;
@@ -40,7 +40,7 @@
         }
 
         .grape, .bad-grape, .bonus {
-            width: 30px;
+            width: 50px;
             height: 30px;
             position: absolute;
             background-size: cover;
